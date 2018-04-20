@@ -1,4 +1,4 @@
-h1{
+h1,h2{
   color: #0000ff;
   text-align: center;
   font-style: italic;
@@ -8,4 +8,10 @@ body{
   background-image: url(' ../images/crow.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+}
+img{
+  float:right;
+}
+ol{
+  color:white;
 }
